@@ -34,6 +34,8 @@
 	마이크로 컨트롤러를 활용해 일시정지선을 인식하면 신호등화 검지를 위해 카메라 UP
 	일시정지선 통과후 차선검출 및 정상 주행을 위해 카메라 DOWN
 
+<img src="https://github.com/ckid132/Auto_driving/blob/main/1.png"  width="100" height="100">
+
 
 
 
